@@ -1,2 +1,3 @@
 # wba
-Webove aplikace 2024
+- Webové stránky z předmětu Webové aplikace 2024
+
